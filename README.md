@@ -33,9 +33,28 @@ Each raster is tiled and publicly hosted as `.tif` files. For more about the dat
 👉 https://sites.research.google/gr/open-buildings/temporal
 
 ---
+## 📋 Notes
+
+- The dataset is very large. Some countries (e.g., Nigeria, India) may exceed 100–200 GB.
+- Make sure your disk has sufficient space before launching a batch download.
+- If any download fails (due to timeout or network issues), you can re-run the notebook to retry only missing files.
+---
+## ✅ Use Cases
+
+- Urban change detection
+- Slum / informal settlement mapping
+- Building height modeling
+- Population estimation
+- Morphometrics & urban structure studies
+  
+---
+
 ## 🙏 Acknowledgements
 
-https://sola.kau.se/deprimap/
+- Google Research - https://data.humdata.org/dataset/google-open-buildings-temporal
+- DEPRIMAP Project- https://sola.kau.se/deprimap/
+  
+_This code was developed as part of the DEPRIMAP project for large-scale urban deprivation analysis._
 
 <img width="373" height="110" alt="image" src="https://github.com/user-attachments/assets/a180a6e3-1b60-429d-b0b8-c14a45e4e190" />
 
