@@ -23,11 +23,11 @@ Here is the link to the original source on HDX platform by Google Research: http
 
 The **Google Open Buildings Temporal** dataset includes building-level information such as:
 
+- `fractional_building_count`: Fractional building count per pixel 
 - `building_height`: Estimated building height in meters  
-- `fractional_building_count`: Fractional building count per pixel  
 - `building_presence`: Confidence layer ranging from 0 to 1
 
-The data is provided at a resolution of 0.5 meters
+The data is provided at a resolution of 0.5 meters. The `.tif` files are downloaded as three-band raster files with the above-mentioned layers.
 
 Each raster is tiled and publicly hosted as `.tif` files. For more about the dataset, visit:  
 👉 https://sites.research.google/gr/open-buildings/temporal
