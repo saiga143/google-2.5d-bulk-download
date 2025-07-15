@@ -1,5 +1,7 @@
 # 🏙️ Google 2.5D Buildings – Bulk Downloader (Country-Level)
 
+_Detailed blogpost explaining this GitHub repo and scripts can be read here:_ https://sola.kau.se/deprimap/2025/07/15/google-25d-download/
+
 This repository provides a **Jupyter Notebook-based pipeline** for downloading the full set of `.tif` tiles from Google's Open Buildings 2.5D dataset for one or more countries and selected years (between 2016 and 2023).
 
 Google Earth Engine is limited by export quotas and task sizes, making national-scale downloads challenging. This approach bypasses GEE entirely by downloading public `.tif` files directly using the URLs provided by Google.
