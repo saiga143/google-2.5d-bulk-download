@@ -10,7 +10,7 @@ Here is the link to the original source on HDX platform by Google Research: http
 
 ## 📦 What's Included
 
-- `download_google_25d.ipynb`  
+- `25d data download.ipynb`  
   → Jupyter Notebook to bulk download tiles by ISO3 code and year  
 - `urls/`  
   → Text files (`ISO3_YEAR.txt`) containing one `.tif` URL per line for each country-year combination  
