@@ -12,8 +12,8 @@ Here is the link to the original source on HDX platform by Google Research: http
 
 - `25d data download.ipynb`  
   → Jupyter Notebook to bulk download tiles by ISO3 code and year  
-- `urls/`  
-  → Text files (`ISO3_YEAR.txt`) containing one `.tif` URL per line for each country-year combination  
+- `urls_part1.zip` and `urls_part2.zip`  
+  → Text files (`ISO3_YEAR.txt`) containing one `.tif` URL per line for each country-year combination. Download them, unzip them and create one folder named `urls`. It is uploaded two zip folders due to Github filesize limitations.  
 - `country_codes.csv`  
   → Reference CSV listing ISO3 codes and country names for easy lookup   
 
