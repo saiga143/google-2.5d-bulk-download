@@ -45,9 +45,8 @@ Each raster is tiled and publicly hosted as `.tif` files. For more about the dat
 
 - Urban change detection
 - Slum / informal settlement mapping
-- Building height modeling
+- Building height modelling
 - Population estimation
-- Morphometrics & urban structure studies
   
 ---
 
